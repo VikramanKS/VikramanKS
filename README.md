@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
+IT professional, working on improving Data Analyst related skill sets.
+
 - 🔭 I’m currently working on [100 days of code python course](https://www.udemy.com/share/103J8C3@sT1rBEuab5y1QcrngWitgF0zEHNWbRKVEMj9v-RKVnIEbSB4m8-q4eX312PnYSLj/)
 
 - 🌱 I’m currently learning **Python, SQL, Power BI**.
