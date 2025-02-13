@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vikraman</h1>
 
-**IT professional, working on improving Data Analyst related skill sets**.
+**IT professional, working on improving Data Engineer related skill sets**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikramanks&label=Profile%20views&color=0e75b6&style=flat" alt="vikramanks" /> </p>
 
 - 🔭 I’m currently working on [**100 days of code python course**](https://www.udemy.com/share/103J8C3@sT1rBEuab5y1QcrngWitgF0zEHNWbRKVEMj9v-RKVnIEbSB4m8-q4eX312PnYSLj/)
 
-- 🌱 I’m currently learning **Python, SQL, Power BI**.
+- 🌱 I’m currently learning **ETL Tools,Python, SQL, Power BI**.
 
 - 📫 How to reach me **vikramanshankar@gmail.com**
 
