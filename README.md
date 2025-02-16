@@ -20,21 +20,27 @@
   <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.amazon.com/webservices" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://www.amazon.com/webservices" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/>
+  </a>
   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Highlighted Projects:</h3>
-- **[Report Generator](https://github.com/VikramanKS/Projects/tree/main/Report%20Generator)**: Automates financial reporting, reducing manual efforts by **80%**.
-- **[Medical Data Extraction](https://github.com/vikramanks/Projects/tree/main/medical_data_extraction)**: Extracts healthcare insights using **NLP & ML**.
-- **[Zomato Sales Analysis](https://drive.google.com/file/d/1QkD9QOMyx0DjZNpwxqIZ7P2EJP9KSuM1/view)**: Analyzes restaurant sales trends for deep insights.
+<ul>
+  <li><strong><a href="https://github.com/VikramanKS/Projects/tree/main/Report%20Generator">Report Generator</a></strong>: Automates financial reporting, reducing manual efforts by **80%**.</li>
+  <li><strong><a href="https://github.com/vikramanks/Projects/tree/main/medical_data_extraction">Medical Data Extraction</a></strong>: Extracts healthcare insights using **NLP & ML** techniques.</li>
+  <li><strong><a href="https://drive.google.com/file/d/1QkD9QOMyx0DjZNpwxqIZ7P2EJP9KSuM1/view">Zomato Sales Analysis</a></strong>: Analyzes restaurant sales trends to provide deep business insights.</li>
+</ul>
 
 <h3 align="left">Key Skills:</h3>
-- **Programming**: Python, SQL, Shell Scripting
-- **Databases**: MySQL, PostgreSQL, AWS Redshift
-- **ETL Tools**: SnapLogic, Informatica
-- **BI & Reporting**: Power BI, Tableau
-- **Cloud Platforms**: AWS (EC2, S3, Redshift)
+<ul>
+  <li><strong>Programming</strong>: Python, SQL, Shell Scripting</li>
+  <li><strong>Databases</strong>: MySQL, PostgreSQL, AWS Redshift</li>
+  <li><strong>ETL Tools</strong>: SnapLogic, Informatica</li>
+  <li><strong>BI & Reporting</strong>: Power BI, Tableau</li>
+  <li><strong>Cloud Platforms</strong>: AWS (EC2, S3, Redshift)</li>
+</ul>
 
 <h3 align="center">Let's connect and build something great!</h3>
 
