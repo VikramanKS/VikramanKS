@@ -7,7 +7,11 @@
 - 🔭 I’m currently working on [**100 Days of Code Python Course**](https://www.udemy.com/share/103J8C3@sT1rBEuab5y1QcrngWitgF0zEHNWbRKVEMj9v-RKVnIEbSB4m8-q4eX312PnYSLj/)
 - 🌱 I’m learning **ETL Tools, Python, SQL, Power BI, AWS Redshift** to enhance my skills.
 - 💼 I specialize in **optimizing ETL processes**, **data migration** with **AWS Redshift**, and **troubleshooting production systems**.
-- 📫 Reach me at: **vikramanshankar@gmail.com**
+- 📫 Reach me at: 
+  <a href="mailto:vikramanshankar@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Envelopes_icon.svg" alt="email" width="20" height="20" />
+    vikramanshankar@gmail.com
+  </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
