@@ -9,7 +9,6 @@
 - 💼 I specialize in **optimizing ETL processes**, **data migration** with **AWS Redshift**, and **troubleshooting production systems**.
 - 📫 Reach me at: 
   <a href="mailto:vikramanshankar@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Envelopes_icon.svg" alt="email" width="20" height="20" />
     vikramanshankar@gmail.com
   </a>
 
